@@ -6,7 +6,8 @@ import * as styles from './index.css';
 ReactDOM.render(
   
   <React.StrictMode>
-    <h1 className={styles.mystyle}>Hello World !</h1>;
+    <h1 className={styles.mystyle}>Hi!</h1>
+    <h1>This is Harsh Raj.</h1>
   </React.StrictMode>,
   document.getElementById('root')
 );
