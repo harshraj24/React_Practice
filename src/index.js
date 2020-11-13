@@ -8,7 +8,7 @@ ReactDOM.render(
   <React.StrictMode>
     <h1 className={styles.mystyle}>Hi!</h1>
     <h1>This is Harsh Raj.</h1>
-    <p>A Front-End Developer</p>
+    <p>A Front-End Developer.</p>
   </React.StrictMode>,
   document.getElementById('root')
 );
