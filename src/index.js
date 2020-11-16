@@ -9,6 +9,7 @@ ReactDOM.render(
     <h1 className={styles.mystyle}>Hi!</h1>
     <h1>This is Harsh Raj.</h1>
     <p>A Front-End Developer.</p>
+    <p>A Final Year Student @ Asansol Engineering College.</p>
   </React.StrictMode>,
   document.getElementById('root')
 );
