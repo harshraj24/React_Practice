@@ -9,7 +9,7 @@ ReactDOM.render(
   <React.StrictMode>
     <h1 className={styles.mystyle}>Hi!</h1>
     <h1 style="padding:10px;margin:10px;">This is Harsh Raj.</h1>
-    <p>A Front-End Developer</p>
+    <p style="padding:10px;margin:10px;">A Front-End Developer</p>
     <p>A Final Year Student @ Asansol Engineering College</p>
     <App/>
   </React.StrictMode>,
