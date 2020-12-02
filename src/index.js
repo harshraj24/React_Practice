@@ -7,7 +7,7 @@ import App from './App.js';
 ReactDOM.render(
   
   <React.StrictMode>
-    <h1 styles="bgcolor:red; color:black; ">Hi!</h1>
+    <h1 >Hi!</h1>
     <h1>This is Harsh Raj.</h1>
     <p>A Front-End Developer</p>
     <p>A Final Year Student @ Asansol Engineering College</p>
